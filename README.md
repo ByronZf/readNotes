@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[baidu.com](https://baidu.com)
 
 You can use the [editor on GitHub](https://github.com/ByronZf/readNotes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
